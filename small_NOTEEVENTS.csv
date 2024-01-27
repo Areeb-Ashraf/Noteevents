@@ -1,0 +1,1463 @@
+ROW_ID,SUBJECT_ID,HADM_ID,CHARTDATE,CHARTTIME,STORETIME,CATEGORY,DESCRIPTION,CGID,ISERROR,TEXT
+97,55116,186183,2179-02-02,,,Discharge summary,Report,,,"Admission Date:  [**2179-1-29**]              Discharge Date:   [**2179-2-2**]
+
+Date of Birth:  [**2093-2-16**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Sulfa (Sulfonamide Antibiotics)
+
+Attending:[**First Name3 (LF) 1115**]
+Chief Complaint:
+respiratory distress
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+85-year-old female atrial fibrillation, schizophrenia, dementia
+presents from nursing home with respiratory distress.
+.
+The patient was in her usual state of health until this AM. At
+that time she was found by nursing home staff in respiratory
+distress with O2 sats of 70% on RA. EMS was contact[**Name (NI) **] and she
+was started on supplemental oxygen with NRB and O2 sats
+responded to 98%. She was also noted to be hot (no document of
+temperature) with cough and green sputum. She was transported to
+[**Hospital1 18**] ED.
+.
+In the ED, initial vitals were: T 99.8, HR 90, BP 171/85, RR 28,
+SaO2 98% NRB15L. EKG with Afib RVR to 130s and LVH. SBP 180s.
+WBC 16. BNP 12,600. CXR interpreted as concerning for CHF. She
+was given nitroglycerin gtt, diltiazem 10mg IV x2, aspirin,
+levofloxacin and furosemide 20mg IV x1. Per documents she
+received 2L IVF. She was temporarily started on BIPAP however
+did not tolerate well with hypotension and tachycardia. This was
+discontinued and patient has been stable with vitals at transfer
+of HR 105, BP 129/66, RR 26, SaO2 100% NRB.
+.
+Currently, no distress although neglects left side. No movement
+of left side. No respiratory distress.
+.
+ROS: Unable to obtain.
+
+Past Medical History:
+- Atrial fibrillation/flutter
+- Schizophrenia
+- Anemia
+- h/o syncope
+- Dementia
+- Cardiomyopathy
+- Paroxysmal ventricular tachycardia
+- h/o C. Diff colitis
+- h/o peptic ulcer disease
+- PPD positive
+- h/o cellulitis
+
+
+Social History:
+Reportedly non-verbal although can communicate when in pain.
+Lives at [**First Name8 (NamePattern2) 1116**] [**Last Name (NamePattern1) **] Nursing Home. Normally can say name and
+walks with shuffling gait. No known history of smoking.
+
+Family History:
+Unable to obtain.
+
+Physical Exam:
+ADMISSION EXAM:
+VS: T: 96.2 Ax BP: 171/81 HR: 123 RR: 24 O2sat: 99% NRB 15L
+GEN: non-verbal, no apparent distress, some wasting
+HEENT: PERRL, eyes deviated to right, dry MM, op without lesions
+although limited view
+Neck: no supraclavicular or cervical lymphadenopathy
+apprecaited, ?low JVD, difficult to assess given patient
+position, left SCM muscle tense, right SCM not tense, head
+deviated to right, resists movement to left
+RESP: no accessory muscle use, not cooperative, bilateral
+crackles diffuse but more prominent at bases, decreased air
+movement although decrease respiratory effort
+CV: irregular, tachycardic, S1 and S2 wnl, II/VI systolic murmur
+at RUSB
+ABD: nd, +b/s, soft, nt, no masses or hepatosplenomegaly
+EXT: warm, no edema
+SKIN: hematoma with edema on low back from recent fall
+NEURO: Non-verbal, non cooperative with exam, moves hands and
+toes on right upon command. Moves toes on command on left. No
+movement or response of left hand. Appears to have left neglect
+although difficult to assess. Flaccid on left side. Normal tone
+on right side.
+
+DISCHARGE EXAM: 99.2 141/97 104 24 92% RA
+GENERAL: difficult to arouse, mildly labored breathing, NAD
+HEENT: sclera anicteric, dry mucous membranes
+CV: irregularly irregular rhythm, tachycardic
+RESP: bibasilar crackles with transmitted upper airway sounds
+ABD: bowel sounds present, soft, non-tender
+EXT: DPs 2+ bilateraly, no edema
+NEURO: left facial droop, patient not moving left side, not
+following commands, posturing of right upper ext
+SKIN: papular rash with erythematous background on neck and
+abdomen, non-tender to palpation on exam, no pustules or
+vesicles noted
+
+Pertinent Results:
+ADMISSION LABS:
+[**2179-1-29**] 06:35AM BLOOD WBC-16.7* RBC-4.07* Hgb-12.6 Hct-38.2
+MCV-94 MCH-31.1 MCHC-33.1 RDW-15.5 Plt Ct-366
+[**2179-1-29**] 06:35AM BLOOD Glucose-131* UreaN-25* Creat-0.9 Na-141
+K-5.4* Cl-106 HCO3-23 AnGap-17
+[**2179-1-29**] 06:35AM BLOOD proBNP-[**Numeric Identifier 1117**]*
+[**2179-1-29**] 06:35AM BLOOD cTropnT-<0.01
+[**2179-1-29**] 11:40AM BLOOD Calcium-8.2* Phos-3.2 Mg-1.8
+[**2179-1-29**] 06:42AM BLOOD Lactate-3.0*
+[**2179-1-29**] 11:40AM BLOOD CK(CPK)-28*
+[**2179-1-29**] 11:40AM BLOOD CK-MB-3 cTropnT-<0.01
+
+MICRO:
+[**2179-1-29**] Blood culture: pending
+.
+IMAGING:
+[**2179-1-29**] EKG #1: Atrial fibrillation with rapid ventricular
+response. Non-specific intraventricular conduction delay. Left
+ventricular hypertrophy. Poor R wave progression could be due to
+left ventricular hypertrophy. Non-specific ST-T wave changes
+could be due to left ventricular hypertrophy, although cannot
+exclude ischemia. Clinical correlation is suggested. No previous
+tracing available for comparison.
+
+[**2179-1-29**] EKG #2: Atrial fibrillation with a controlled ventricular
+response. Non-specific intraventricular conduction delay. Left
+ventricular hypertrophy. Poor R wave progression could be due to
+left ventricular hypertrophy. Non-specific ST-T wave changes
+could be due to left ventricular hypertrophy, although cannot
+exclude ischemia. Compared to tracing #1 ventricular rate is
+slower.
+
+[**2179-1-29**] CXR:
+1. Mild pulmonary edema.
+2. Mild cardiomegaly.
+3. Hyperexpanded lungs, could be due to emphysema.
+
+[**2179-1-29**] CTA Head/Neck:
+1. Acute right MCA distribution infarction with acute occlusion
+demonstrated within the right middle cerebral artery. No
+collateral flow.
+2. No evidence of vascular dissection. Mild atherosclerotic
+plaque as
+detailed above.
+
+Brief Hospital Course:
+85 year old female with a history of schizophrenia and dementia
+who presented in repiratory distress and was found to have a new
+MCA stroke. After goals of care discussion with patient's
+guardian, she was made comfort measures only, and expired on
+[**2179-2-2**].
+
+#. Respiratory Distress: Patient's O2 sats were in high 90s on
+NRB on arrival to ED.  She was noted to be in afib with RVR, and
+CXR was concerning for pulmonary edema.  Patient was treated
+with nitro gtt, diltiazem, aspirin, levofloxacin and furosemide.
+BiPAP attempted, but patient did not tolerate well; developed
+hypotension and increased tachycardia.  She was admitted to the
+ICU for further evaluation and management of respiratory
+distress. After Code Stroke called on arrival to ICU in setting
+of left hemiparesis (see below), and imaging revealed large R
+MCA infarct, decision was made to focus on comfort care only.
+Patient transferred to floor, where she received morphine as
+needed for pain and SOB.
+.
+#. CVA: On arrival to ICU, patient was noted to have left
+hemiparesis.  Code Stroke called, and CT Head/Neck revealed
+right MCA infarct. Given the history of recent falls and her
+limited pre-stroke functionality, the decision was made not to
+give heparin or tPA.  After discussion with the patient's
+guardian, it was felt that she would not want to pursue
+aggressive treatment given poor prognosis, and patient was made
+CMO.
+.
+#. Atrial fibrillation: Patient noted to be in afib with RVR on
+presentation.  She was initially on diltiazem gtt, but this was
+discontinued once patient made CMO.
+.
+#. Rash: Patient noted to have papular rash on erythematous
+background on neck and abdomen.  Was felt to be most likely
+secondary to a drug rash.  Of note, patient received lasix,
+which may have caused reaction as patient has history of sulfa
+allergy.  Patient received sarna lotion as needed, as well as
+hydrocortisone cream.
+.
+#. Goals of care: Per discussion with patient's guardian,
+patient's code status changed to comfort measures only.  Plan
+was for discharge back to skilled nursing facility with hospice,
+however patient expired on [**2179-2-2**] prior to discharge.  Her
+guardian was notified, and declined an autopsy.
+
+Medications on Admission:
+- metoprolol succinate 50mg PO daily
+- Diltiazem XR 120mg PO daily
+- Colace 100mg PO daily
+- MVI PO daily
+- Calcium
+- Lorazepam 0.5mg PO BID
+- guaifenesin 10 mL p.o. q.6h. p.r.n.
+- acetaminophen prn
+
+
+Discharge Medications:
+None
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnosis: Cerebrovascular accident (stroke), rash
+
+Secondary Diagnoses: atrial fibrillation, schizophrenia,
+dementia
+
+
+Discharge Condition:
+Patient expired.
+
+Discharge Instructions:
+None; patient expired.
+
+Followup Instructions:
+None; patient expired.
+
+
+"
+118,17640,178186,2152-03-31,,,Discharge summary,Report,,,"Admission Date: [**2152-3-23**]        Discharge Date: [**2152-3-31**]
+
+Date of Birth:  [**2072-12-24**]        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 79-year-old gentleman
+with a longstanding history of coronary artery disease.  He
+had an initial percutaneous transluminal coronary angioplasty
+of his left circumflex in [**2137**].  In [**2139**], he had a
+catheterization that showed 100 percent right coronary artery
+occlusion and a subtotal circumflex lesion with a
+percutaneous transluminal coronary angioplasty done.  At the
+same time, he had a mild left anterior descending occlusion
+with some venous obstruction.
+
+Over the past few months, he has had increasing angina with
+exertion.  On [**2152-1-11**], he had an exercise tolerance
+test that was positive with ST depressions with
+inferoposterior ischemia.  His angina is primarily between
+his scapula and back.  He was referred for cardiac
+catheterization which was done on [**2152-1-28**].  This
+revealed an ejection fraction of 60 percent.  He had a mildly
+dilated aortic root, right-dominant system, left main with a
+20 percent occlusion, diagonal with 70 percent, ramus with 80
+percent, circumflex with 95 percent, left anterior descending
+with 70 percent, with distal left anterior descending 90
+percent occlusion, obtuse marginal with 80 occlusion, right
+coronary artery with 100 percent, and posterior descending
+artery with 70 percent.  No mitral regurgitation or aortic
+stenosis.  At that time, he was referred for bypass surgery.
+
+PAST MEDICAL HISTORY:
+1. Glaucoma.
+2. Tuberculosis.
+3. Ventral hernia.
+4. Question of lumbar stenosis.
+5. Coronary artery disease (with percutaneous transluminal
+   coronary angioplasty in [**2137**] and [**2139**]).
+6. Left-sided headaches (with question of temporal
+   arteritis).
+7. Left carotid disease.
+8. Diverticulitis.
+9. Hypertension.
+10.      Hiatal hernia with gastroesophageal reflux disease.
+11.      Elevated cholesterol.
+12.      Benign prostatic hypertrophy.
+
+
+PAST SURGICAL HISTORY:
+1. Tonsillectomy and adenoidectomy (as a child).
+2. Colon polypectomy.
+3. Bilateral laser eye surgery.
+
+
+ALLERGIES:  SULFA (causes hot flashes).
+
+PHYSICAL EXAMINATION ON PRESENTATION:  The patient's height
+was 5 feet 9 inches tall, his weight was approximately 175
+pounds, blood pressure in the left arm was 180/66, and his
+right arm blood pressure was 188/80.  Cardiovascular
+examination revealed a rate and rhythm.  Normal first heart
+sounds and second heart sounds.  There was a 2/6 systolic
+ejection murmur.  The lungs were clear to auscultation
+bilaterally.  The abdomen was soft, nontender, and
+nondistended.  Left upper quadrant diverticula and ventral
+hernia.  Extremities were warm and well perfused.  There were
+no varicosities.  Good circulation, sensation, mobility.
+Pulse examination revealed right and left femoral were 2
+plus, right and left dorsalis pedis pulses were 2 plus, right
+and left posterior tibialis were 2 plus, and right and left
+radial pulses were 2 plus.  Neurologically, the pupils were
+equal, round, and reactive to light and accommodation.
+Cranial nerves II through XII were grossly intact.  A
+nonfocal examination.  Head, eyes, ears, nose, and throat
+examination revealed the extraocular movements were intact.
+The sclerae were anicteric and not injected.  There were
+buccal mucosa.  Neck examination revealed there was no
+jugular venous distention.  There were no bruits.
+
+PERTINENT LABORATORY VALUES ON THE DAY OF DISCHARGE:  White
+blood cell count was 10.2, his hematocrit was 32.9, and his
+platelets were 349.  Potassium was 4.7, his blood urea
+nitrogen was 16, and his creatinine was 0.8.
+
+PERTINENT RADIOLOGY/IMAGING:  Last chest x-ray revealed a
+small bilateral effusion.  No congestive heart failure.  No
+pneumothorax.
+
+BRIEF SUMMARY OF HOSPITAL COURSE:  The patient was admitted
+on [**3-23**] and underwent a coronary artery bypass graft times
+three.  He was extubated that afternoon.  He was initially A-
+paced at 80 with an underlying sinus bradycardia at a rate of
+50.
+
+On postoperative day three, he went into atrial flutter.
+After 5 mg of intravenous Lopressor, he had a nine second
+pause with conversion to a sinus rhythm.  That day, he had
+three subsequent pauses of about six seconds each, and the
+Electrophysiology Service was consulted.  On [**3-26**], he had
+some atrial fibrillation and atrial flutter with a rate in
+the 80s to 90s.
+
+On the evening of [**3-27**], he went into an accelerated
+idioventricular rhythm and was subsequently A-paced at 80.
+He continued in a normal sinus rhythm with some episodes of
+accelerated idioventricular rhythm, but he was asymptomatic.
+On [**3-27**], the patient was started on 12.5 mg of by mouth
+Lopressor (per Electrophysiology).  They did not recommend a
+pacemaker or defibrillator placement.
+
+The patient was transferred to the inpatient floor on [**3-29**].
+His chest tubes had been removed on [**3-26**], and his cardiac
+pacing wires were removed on [**3-29**].  He had been followed
+throughout his hospital course by the Physical Therapy
+Service.  His chest tubes had come out on the [**3-26**].  The
+patient was cleared for home by the Physical Therapy Service
+on [**3-30**].
+
+CONDITION ON DISCHARGE:  Vital signs revealed his pulse was
+65 (in a sinus rhythm), his blood pressure was 138/64, his
+respiratory rate was 18, and his oxygen saturation was  95
+percent on room air.  His temperature maximum was 99.3
+degrees Fahrenheit.  His weight on discharge was 79
+kilograms.  Preoperatively 79 kilograms as well.  The patient
+was alert, awake, and oriented times three.  The sternal
+incision was clean, dry, and intact with a stable sternum.
+Bilateral lower extremity vein harvest sites were clean, dry,
+and intact with moderate ecchymosis on the right thigh.
+Cardiovascular examination revealed a rate and rhythm.
+Respiratory examination revealed the lungs sounds were clear.
+There were scattered rhonchi on the right side.
+Gastrointestinal examination revealed there were positive
+bowel sounds.  The abdomen was soft, nontender, and
+nondistended.  Extremity examination revealed some trace
+lower extremity edema.
+
+DISCHARGE STATUS:  The patient was discharged to home with
+Visiting Nurses Association on [**3-30**] in stable condition.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease; status post coronary artery
+   bypass graft times three.
+2. Postoperative bradycardia.
+3. Glaucoma.
+4. Tuberculosis.
+5. Status post induced right pneumothorax with scarring.
+6. Hypertension.
+7. Elevated cholesterol.
+8. Benign prostatic hypertrophy.
+
+
+MEDICATIONS ON DISCHARGE:
+1. Metoprolol 25mg by mouth twice per day.
+2. Lasix 20 mg by mouth once per day (times seven days).
+3. Potassium chloride 20 mEq by mouth every day (times seven
+   days).
+4. Colace 100 mg by mouth twice per day.
+5. Zantac 150 mg by mouth twice per day.
+6. Aspirin 325 mg by mouth once per day.
+7. Percocet 5/325-mg tablets one to two tablets by mouth
+   q.4h. as needed.
+8. Lipitor 20 mg by mouth once per day.
+9. Cozaar 25 mg by mouth once per day.
+
+
+DISCHARGE INSTRUCTIONS-FOLLOWUP:
+1. The patient was instructed to follow up  with Dr. [**Last Name (STitle) 1275**]
+   in one to two weeks.
+2. The patient was instructed to follow up  with Dr. [**First Name (STitle) 1075**] in
+   one to two weeks.
+3. The patient was instructed to follow up  with Dr. [**First Name (STitle) **] [**Last Name (Prefixes) 1276**] in one month.
+4.
+   The patient was also to be seen for a wound check in two
+   weeks.
+
+
+
+
+                        [**Doctor Last Name **] [**Last Name (Prefixes) **], MD 2351
+
+Dictated By:[**Last Name (NamePattern1) 1277**]
+MEDQUIST36
+D:  [**2152-3-31**] 14:13:30
+T:  [**2152-3-31**] 15:57:37
+Job#:  [**Job Number 1278**]
+"
+130,96187,108082,2103-03-13,,,Discharge summary,Report,,,"Admission Date:  [**2103-3-7**]              Discharge Date:   [**2103-3-13**]
+
+
+Service: SURGERY
+
+Allergies:
+Codeine / Aspirin / Ibuprofen / Lipitor / Crestor
+
+Attending:[**First Name3 (LF) 1390**]
+Chief Complaint:
+fall down stairs, syncope
+
+Major Surgical or Invasive Procedure:
+Paravertebral block by Acute Pain Service
+
+
+History of Present Illness:
+This is a [**Age over 90 **] y/o F, with h/o previous C7 vertebral body
+compression fx last year after a syncopal event while
+defecating, who presents to [**Hospital1 18**] ED after falling down flight
+of stairs today.  Pt was carrying laundry up a flight of stairs
+and fell when she had a syncopal event.  Pt aroused at bottom of
+stairs and called for help.  At presentation she complained of
+right sided back pain.  She had head, c-spine, and torso CT scan
+which showed multiple right sided rib fractures. Pt does have
+chronic neck pain after compression fx last year.  She wears a
+neck brace as needed at night for comfort.  She currently denies
+neck pain, headache, abdominal pain or distension, and
+additionally denies any chest pain or SOB or palpitations prior
+to the fall.
+
+Past Medical History:
+PMH:
+1. A-fib
+2. Type II DM
+3. Hx of PE 20 yrs ago
+4. Hyperlipidemia
+5. Osteoporosis
+6. Osteoarthritis
+7. Anxiety
+8. C7 compression fracture s/p fall
+
+PSH: None
+
+Social History:
+Patient lives at home, engages in water aerobics everyday,
+denies use of tobacco, alcohol, or IV drug use
+
+
+Family History:
+Father died from MI at age 50
+Brother died from MI at age 37
+
+Physical Exam:
+At discharge
+VS: Afebrile, VSS
+96.2   87    158/82   16   98%2L
+Constitutional: Well appearing, no acute distress
+Neck: No masses
+CV: RRR, no murmurs.
+Resp: CTAB, no wheezes or crackles, IS 300. + TTP R ant/post
+chest. No crepitus.
+Abd: Soft, no TTP, nondistended, +BS
+Ext: Warm, distal pulses palpable bilaterally
+Skin: Face, neck and chest is normal
+Musculoskeletal: Normal to gait and station
+Spine, Pelvis and Extremities: Stable
+Psychiatric: Normal to judgment, insight, memory, mood and
+affect
+
+
+Pertinent Results:
+[**2103-3-7**]
+Lactate:3.8
+UA negative
+132  95  22     AGap=19
+-------------328
+4.8  23  0.8
+CK: 270  MB: 5  Trop-T: <0.01
+ALT: 70 AP: 55 Tbili: 0.7 Alb:
+AST: 102 LDH:  Dbili:  TProt:
+[**Doctor First Name **]:  Lip:
+Dig: 0.7
+     13.0
+15.4 ----- 165
+      39.1
+ N:91 Band:5 L:2 M:2 E:0 Bas:0
+Poiklo: OCCASIONAL Ovalocy: OCCASIONAL
+PT: 24.8  PTT: 24.5  INR: 2.4
+.
+[**2103-3-7**] Carotid Duplex: 60-69% stenosis of L ICA, 40-59%
+stenosis of R ICA
+.
+[**2103-3-6**] CT head: no acute intracranial process
+.
+[**2103-3-6**] CT c-spine: interval C7 vertebral body height loss new
+since prior but could represent
+.
+[**2103-3-6**] CT abd/pelvis: 1. Multiple acute right rib fractures
+without evidence of flail chest or
+segmental fractures.
+2. Asymmetric pulmonary edema, right greater than left, with
+trace right
+pleural effusion and bibasilar atelectasis.
+3. 1.5 cm left lower lobe pulmonary nodule, not included in the
+field of view
+of the prior study. If clinically indicated, a three-month
+followup is
+recommended.
+4. Unchanged left adnexal cyst.
+
+
+
+
+Brief Hospital Course:
+The patient was admitted to the trauma surgery service on
+[**2103-3-7**] after a syncopal episode causing a fall down stairs
+resulting in multiple broken ribs, but no other injuries.
+
+Neuro: Pain control was [**Last Name **] problem for this patient during her
+hospitalization and the acute pain service was consulted to
+provide recommendations to better manage the patient's rib pain.
+She initially received IV pain medicaions, including a PCA, and
+also had a paravertebral block performed by APS. When tolerating
+oral intake, the patient was transitioned to oral pain
+medications, on a regimen including neurontin, lidoderm patch,
+standing tylenol, tramadol and dilaudid for break-through pain,
+with fair pain control. The pt also underwent carotid duplex
+ultrasound in the evaluation for syncope, which showed 60-69%
+stenosis of L ICA, 40-59% stenosis of R ICA. She will follow up
+with vascular surgery in 6 months for this, but this is not
+likely the cause of her syncope.
+
+CV: The patient was stable from a cardiovascular standpoint;
+vital signs were routinely monitored. She was kept on telemetry
+which was reassuring. ECG on admission was not thought to be
+consistent with STEMI. Additionally, cardiac enzymes were
+negative x 1. Vital signs were routinely monitored and were
+stable. She needs follow up with her regular doctor, as she may
+need an echo or holter monitoring as an out-patient.
+
+Pulmonary: The patient was stable from a pulmonary standpoint;
+vital signs were routinely monitored. She did require 2L of O2
+nasal cannula at discharge, this was thought to be due to poor
+deep breathing [**2-20**] mild persistent rib pain. Chest xrays did not
+reveal any pneumonia or fluid overload. The pt did have a 1.5 cm
+left lower lobe pulmonary nodule noted on CT chest. She will
+need follow up by her regular doctor, likely with repeat CT
+chest to eval for interval change.
+
+GI/GU: At admission, the patient was resuscitated with IV fluids
+until tolerating oral intake. Her diet was advanced when
+appropriate, which was tolerated well. She was also started on a
+bowel regimen to encourage bowel movement. Foley was removed on
+HD#2. Intake and output were closely monitored and were normal.
+She did have some episodes of incontinence.
+
+Prophylaxis: The patient received subcutaneous heparin during
+this stay, and was encouraged to get up and ambulate as early as
+possible with PT.
+
+At the time of discharge on HD#7, the patient was doing well,
+afebrile with stable vital signs, tolerating a regular diet,
+working with PT, voiding without assistance, and pain was fairly
+well controlled.
+
+
+Medications on Admission:
+Digoxin 250 mcg 6 out of 7 days of the week, Zetia 10',
+Lisinopril 5', Toprol XL 25', Coumadin, Vitamin C, Vitamin D,
+MVI
+
+Discharge Medications:
+1. Ezetimibe 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+2. Digoxin 250 mcg Tablet Sig: One (1) Tablet PO 6X/WEEK
+([**Doctor First Name **],MO,TU,WE,TH,FR).
+3. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2
+times a day).
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig:
+One (1) Adhesive Patch, Medicated Topical Q12 (): 12 hours with
+patch on, 12 hours with patch off.
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day) as needed for constipation.
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+8. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)
+Injection TID (3 times a day).
+9. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation
+Q6H (every 6 hours).
+10. Hydromorphone 2 mg Tablet Sig: 0.5-1 Tablet PO every [**4-24**]
+hours as needed for pain for 30 days: Hold for sedation, RR <
+12.
+11. Acetaminophen 500 mg Tablet Sig: Two (2) Tablet PO Q 8H
+(Every 8 Hours) as needed for pain for 30 days: Do not exceed
+more than 4g tylenol daily.
+12. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO TID (3
+times a day) for 30 days: Hold for sedation.
+13. Metoprolol Succinate 25 mg Tablet Sustained Release 24 hr
+Sig: 2.5 Tablet Sustained Release 24 hrs PO DAILY (Daily): Hold
+for SBP < 100 and HR < 60 .
+14. Tramadol 50 mg Tablet Sig: 0.5 Tablet PO QID (4 times a day)
+for 30 days.
+15. Albuterol Sulfate 2.5 mg /3 mL (0.083 %) Solution for
+Nebulization Sig: One (1) neb Inhalation Q6H (every 6 hours).
+Disp:*120 neb* Refills:*0*
+16. Magnesium Hydroxide 400 mg/5 mL Suspension Sig: Thirty (30)
+ML PO Q6H (every 6 hours) as needed for constipation for 10
+days.
+
+
+Discharge Disposition:
+Extended Care
+
+Facility:
+Newbridge on the [**Doctor Last Name **]
+
+Discharge Diagnosis:
+Primary: 1) fall (trauma), 2) syncope, 3) right posterior [**7-28**]
+rib fractures, 4) right anterior 6th rib fx
+
+Secondary:  1) atrial fibrillation, 2) Osteoporosis, 3) diabetes
+mellitus II, 4) PE 20 years ago, 5) previous C7 fx
+
+
+Discharge Condition:
+Mental Status:Clear and coherent
+Level of Consciousness:Alert and interactive
+Activity Status:Out of Bed with assistance to chair or
+wheelchair
+
+
+Discharge Instructions:
+*You were admitted to [**Hospital1 18**] to the trauma service after a fall
+due to losing consciousness.
+*You were found to have 5 rib fractures on CT scan. The most
+important treatment for this kind of fracture is pain control to
+optimize deep breathing. There is no surgery or brace for
+support that is recommended. Optimization of pain control is
+imperative because splinting (weak breathing due to pain) can
+result in pneumonia.
+* You should expect to have rib pain for 4-6 weeks from your
+injury until your ribs have begun to heal. Please continue to
+take the pain medication prescribed until then. Please also
+continue to use the incentive spirometer (breathing machine) 10
+times per hour in order to keep your lungs adequately inflated
+(like a balloon).
+* You had CT scan of your head, neck, abdomen and pelvis which
+revealed no other injuries. CT scan of the chest did show a
+small nodule in your left lung. You should follow up with your
+regular doctor to discuss imaging the lung in several months
+evaluate for growth.
+* In evaluation for your loss of consciousness, we did blood
+tests that look at heart strain or decreased blood flow
+(troponins) which were normal.  Additionally you were kept on
+telemetry (continuous heart monitoring) which was reassuring.
+Finally, you underwent an ultrasound study of your carotids,
+which showed some degree of narrowing but not narrowing
+significant enough to have caused your syncopal episodes.  You
+need to follow up with vascular surgery Dr. [**Last Name (STitle) 1391**] in 6 months
+for this.  You may also need additional evaluation for heart
+monitoring, and should follow up with your regular doctor to
+discuss this.
+
+Please call your doctor, talk to your doctor at rehab or return
+to the ER if:
+* If you are vomiting and cannot keep in fluids or your
+medications.
+* If you have shaking chills, fever greater than 101.5 (F)
+degrees or 38 (C) degrees, chest pain, cough, shortness of
+breath, or anything else that is troubling you.
+* Any serious change in your symptoms, or any new symptoms that
+concern you.
+* Please resume all regular home medications and take any new
+meds as ordered.
+* Do not drive or operate heavy machinery while taking any
+narcotic pain medication. You may have constipation when taking
+narcotic pain medications (oxycodone, percocet, vicodin,
+hydrocodone, dilaudid, etc.); you should continue drinking
+fluids, you may take stool softeners, and should eat foods that
+are high in fiber.
+
+
+Followup Instructions:
+Call Dr.[**Name (NI) 1392**] office for a follow up appointment in 6
+months, tell them that you will need carotid ultrasound prior to
+appointment.
+Phone: [**Telephone/Fax (1) 1393**].
+
+Please also follow up with Dr. [**Last Name (STitle) 853**] in [**2-21**] weeks.  Call ([**Telephone/Fax (1) 1394**] for an appointment.
+
+Please let your regular doctor know about this hospitalization
+and follow up with him or her in [**1-20**] weeks.  You may need
+additional monitoring of your heart rhythm.
+
+
+
+"
+548,76709,115291,2107-06-09,,,Discharge summary,Report,,,"Admission Date:  [**2107-5-26**]              Discharge Date:   [**2107-6-9**]
+
+Date of Birth:  [**2029-5-6**]             Sex:   F
+
+Service: SURGERY
+
+Allergies:
+Cortisone / Percocet / Prednisone / Advair Diskus
+
+Attending:[**First Name3 (LF) 3376**]
+Chief Complaint:
+Abdominal pain
+
+Major Surgical or Invasive Procedure:
+[**2107-5-26**]: Exploratory laparotomy with ileocolectomy
+
+History of Present Illness:
+78F s/p laparoscopic converted to open right hemicolectomy for
+Stage 1 (T1N0) right colon cancer on [**2106-10-29**], now being
+transferred from OSH with diffuse abdominal pain and guarding on
+exam. She started with diffuse abdominal pain at 9am yesterday
+and went to [**Hospital3 4485**] at 9pm. She had some nausea and
+bilious emesis x5, but had been passing flatus and bowel
+movements. A non-contrast CT was performed and she was sent here
+as her abdominal exam was concerning. In ED with A.fib w/RVR,
+hypertension up to 200/100.
+
+Past Medical History:
+CAD s/p PCI (last '[**02**]), pAFib, CHF, HTN,
+hyperchol, interstitial lung disease, GIB, GERD, CRI (baseline
+Cr
+1.3-1.8), NIDDM, hypothyroid, TIA, parkinson's, low back pain
+
+Past Surgical History:
+Diverting transverse loop colostomy after colonic perforation
+from colonoscopy,, colostomy reversal, ventral hernia repair
+with mesh, Laparoscopic converted to open right hemicolectomy
+[**2106-11-15**].
+
+Social History:
+Patient is retired, lives at home with husband. Former [**Name2 (NI) 1818**].
+Denies alcohol or other drugs.
+
+
+Family History:
+NC
+
+Physical Exam:
+On admission:
+Vitals: T 101.1 HR 160 BP 120/90 RR 20 SO2 96%
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Firm, nondistended, severely tender diffusely, mild rebound
+tenderness and voluntary guarding.
+DRE: normal tone, no gross or occult blood
+Ext: 1+ LE edema b/l, LE warm and well perfused
+
+On Discharge:
+
+Pertinent Results:
+ADMISSION LABS
+--------------
+[**2107-5-26**] 12:30AM BLOOD WBC-29.3*# RBC-4.63# Hgb-13.3# Hct-42.3#
+MCV-91 MCH-28.8 MCHC-31.5 RDW-15.8* Plt Ct-263#
+[**2107-5-26**] 12:30AM BLOOD PT-30.3* PTT-23.7 INR(PT)-3.0*
+[**2107-5-26**] 12:30AM BLOOD Glucose-182* UreaN-40* Creat-1.6* Na-143
+K-6.0* Cl-107 HCO3-19* AnGap-23*
+
+[**2107-5-26**]: TEE
+No intracardiac thrombus. Mild mitral regurgitation.
+
+[**2107-5-26**]: CT abd/pelvis:
+- Diffuse bowel wall dilatation, with lack of mural enhancement
+in the
+distal ileum, concerning for bowel ischemia or necrosis. There
+is an
+occlusion of an ileal branch of the superior mesenteric artery
+suggesting an embolic cause for bowel ischemia upstream of
+affected areas.
+- Extensive atherosclerotic disease of the aorta and iliac
+arteries.
+
+[**2107-5-30**]: MRI Head
+- Acute infarction in the left middle cerebral artery
+distribution involving the left parietal lobe.
+- Small old infarct in the right cerebellum.
+- No evidence of susceptibility artifact to suggest intracranial
+hemorrhage.
+
+[**2107-6-3**]: KUB
+- ileus
+
+[**2107-6-4**]: KUB
+- There has been no significant change. There remains air and
+stool seen
+throughout the colon and some mildly prominent loops of small
+bowel. Left
+side down decubitus radiograph, shows no free intra-abdominal
+gas present.  Surgical skin staples are seen projecting over the
+midline.
+
+[**2107-6-4**]: CT HEAD:
+- Evolving left parietal infarct. No evidence of hemorrhagic
+transformation.
+- Global atrophy and chronic small vessel change.
+- Small old right cerebellar infarct.
+[**2107-6-8**] 05:10AM BLOOD WBC-7.8 RBC-3.43* Hgb-10.1* Hct-31.3*
+MCV-91 MCH-29.6 MCHC-32.4 RDW-15.6* Plt Ct-454*
+[**2107-6-7**] 05:22AM BLOOD WBC-7.6 RBC-3.28* Hgb-9.5* Hct-30.5*
+MCV-93 MCH-29.1 MCHC-31.3 RDW-15.8* Plt Ct-438
+[**2107-6-6**] 05:00AM BLOOD WBC-7.8 RBC-3.15* Hgb-9.3* Hct-29.0*
+MCV-92 MCH-29.4 MCHC-32.0 RDW-15.9* Plt Ct-361
+[**2107-6-5**] 05:37PM BLOOD WBC-8.8 RBC-3.24* Hgb-9.2* Hct-29.2*
+MCV-90 MCH-28.4 MCHC-31.5 RDW-16.3* Plt Ct-313
+[**2107-6-5**] 09:24AM BLOOD WBC-8.0 RBC-3.16* Hgb-9.3* Hct-28.5*
+MCV-90 MCH-29.3 MCHC-32.5 RDW-16.2* Plt Ct-310
+[**2107-6-5**] 01:42AM BLOOD WBC-7.3 RBC-3.02* Hgb-9.2* Hct-26.5*
+MCV-88 MCH-30.6 MCHC-34.9 RDW-15.9* Plt Ct-268
+[**2107-6-4**] 12:11AM BLOOD WBC-7.1 RBC-3.61* Hgb-10.6* Hct-32.7*
+MCV-91 MCH-29.5 MCHC-32.5 RDW-16.3* Plt Ct-307
+[**2107-6-3**] 05:12AM BLOOD WBC-5.3 RBC-3.42* Hgb-10.0* Hct-31.5*
+MCV-92 MCH-29.3 MCHC-31.8 RDW-15.9* Plt Ct-245
+[**2107-6-2**] 05:25AM BLOOD WBC-4.1 RBC-3.44* Hgb-10.1* Hct-31.5*
+MCV-92 MCH-29.4 MCHC-32.1 RDW-15.8* Plt Ct-200
+[**2107-6-1**] 05:20AM BLOOD WBC-3.0* RBC-3.64* Hgb-10.9* Hct-32.8*
+MCV-90 MCH-29.8 MCHC-33.1 RDW-15.8* Plt Ct-157
+[**2107-5-31**] 05:10AM BLOOD WBC-4.0# RBC-3.83* Hgb-11.4* Hct-34.1*
+MCV-89 MCH-29.8 MCHC-33.5 RDW-15.9* Plt Ct-132*
+[**2107-5-26**] 12:30AM BLOOD Neuts-93* Bands-0 Lymphs-2* Monos-5 Eos-0
+Baso-0 Atyps-0 Metas-0 Myelos-0
+[**2107-5-26**] 12:30AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+
+Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL Ovalocy-1+ Tear
+Dr[**Last Name (STitle) 833**] [**Name (STitle) 4486**]
+[**2107-6-9**] 11:10AM BLOOD PT-24.3* PTT-26.1 INR(PT)-2.3*
+[**2107-6-8**] 05:10AM BLOOD Plt Ct-454*
+[**2107-6-8**] 05:10AM BLOOD PT-25.3* PTT-28.1 INR(PT)-2.4*
+[**2107-6-7**] 05:22AM BLOOD Plt Ct-438
+[**2107-6-7**] 05:22AM BLOOD PT-39.7* PTT-29.9 INR(PT)-4.1*
+[**2107-6-6**] 05:00AM BLOOD Plt Ct-361
+[**2107-6-6**] 05:00AM BLOOD PT-39.0* PTT-29.5 INR(PT)-4.0*
+[**2107-6-5**] 05:37PM BLOOD Plt Ct-313
+[**2107-6-5**] 09:24AM BLOOD Plt Ct-310
+[**2107-6-5**] 01:42AM BLOOD Plt Ct-268
+[**2107-6-5**] 01:42AM BLOOD PT-39.8* PTT-28.6 INR(PT)-4.1*
+[**2107-6-4**] 12:11AM BLOOD Plt Ct-307
+[**2107-6-4**] 12:11AM BLOOD PT-38.6* PTT-26.7 INR(PT)-3.9*
+[**2107-6-3**] 05:12AM BLOOD PT-38.4* PTT-27.4 INR(PT)-3.9*
+[**2107-6-2**] 11:20AM BLOOD PT-34.5* PTT-68.9* INR(PT)-3.5*
+[**2107-6-1**] 12:58PM BLOOD PT-17.7* PTT-45.5* INR(PT)-1.6*
+[**2107-6-1**] 05:20AM BLOOD Plt Ct-157
+[**2107-6-1**] 05:20AM BLOOD PT-16.7* PTT-44.1* INR(PT)-1.5*
+[**2107-5-31**] 05:10AM BLOOD PT-16.1* PTT-26.0 INR(PT)-1.4*
+[**2107-5-30**] 03:20PM BLOOD PT-17.6* PTT-25.5 INR(PT)-1.6*
+[**2107-5-28**] 03:10AM BLOOD PT-16.8* PTT-28.7 INR(PT)-1.5*
+[**2107-5-27**] 12:26PM BLOOD Plt Ct-120*
+[**2107-5-27**] 12:26PM BLOOD PT-23.0* PTT-32.7 INR(PT)-2.1*
+[**2107-5-27**] 03:29AM BLOOD PT-31.2* PTT-35.1* INR(PT)-3.1*
+[**2107-5-26**] 07:22AM BLOOD PT-19.8* PTT-29.8 INR(PT)-1.8*
+[**2107-5-26**] 12:30AM BLOOD PT-30.3* PTT-23.7 INR(PT)-3.0*
+[**2107-6-9**] 11:10AM BLOOD Glucose-90 UreaN-13 Creat-1.3* Na-146*
+K-3.6 Cl-111* HCO3-23 AnGap-16
+[**2107-6-8**] 05:10AM BLOOD Glucose-90 UreaN-13 Creat-1.2* Na-141
+K-3.1* Cl-112* HCO3-21* AnGap-11
+[**2107-6-7**] 05:22AM BLOOD Glucose-93 UreaN-16 Creat-1.3* Na-141
+K-3.8 Cl-108 HCO3-21* AnGap-16
+[**2107-6-6**] 05:00AM BLOOD Glucose-91 UreaN-15 Creat-1.3* Na-142
+K-4.1 Cl-111* HCO3-21* AnGap-14
+[**2107-6-5**] 05:37PM BLOOD Glucose-110* UreaN-15 Creat-1.3* Na-140
+K-4.2 Cl-111* HCO3-20* AnGap-13
+[**2107-6-5**] 07:23AM BLOOD Creat-1.3* Na-140 K-4.2 Cl-113*
+[**2107-6-5**] 01:42AM BLOOD Glucose-125* UreaN-17 Creat-1.4* Na-139
+K-4.0 Cl-110* HCO3-21* AnGap-12
+[**2107-6-4**] 12:11AM BLOOD Glucose-136* UreaN-16 Creat-1.1 Na-141
+K-3.4 Cl-110* HCO3-22 AnGap-12
+[**2107-6-3**] 05:12AM BLOOD Glucose-94 UreaN-17 Creat-1.2* Na-143
+K-3.4 Cl-111* HCO3-21* AnGap-14
+[**2107-6-2**] 05:25AM BLOOD Glucose-109* UreaN-23* Creat-1.3* Na-143
+K-3.3 Cl-111* HCO3-21* AnGap-14
+[**2107-6-1**] 12:44PM BLOOD Glucose-118* UreaN-29* Creat-1.4* Na-142
+K-3.4 Cl-108 HCO3-23 AnGap-14
+[**2107-6-1**] 05:20AM BLOOD Glucose-102* UreaN-30* Creat-1.4* Na-142
+K-3.3 Cl-107 HCO3-23 AnGap-15
+[**2107-5-31**] 05:10AM BLOOD Glucose-120* UreaN-36* Creat-1.4* Na-143
+K-3.6 Cl-107 HCO3-24 AnGap-16
+[**2107-5-29**] 07:55PM BLOOD Glucose-121* UreaN-36* Creat-1.4* Na-140
+K-3.5 Cl-105 HCO3-20* AnGap-19
+[**2107-5-29**] 01:35AM BLOOD Glucose-97 UreaN-39* Creat-1.8* Na-142
+K-3.8 Cl-110* HCO3-21* AnGap-15
+[**2107-5-28**] 03:10AM BLOOD Glucose-90 UreaN-36* Creat-1.7* Na-141
+K-4.6 Cl-108 HCO3-22 AnGap-16
+[**2107-6-6**] 05:00AM BLOOD ALT-9 AST-13 LD(LDH)-178 AlkPhos-40
+TotBili-0.3
+[**2107-5-26**] 12:30AM BLOOD ALT-14 AST-42* AlkPhos-41 TotBili-0.3
+[**2107-6-7**] 05:50PM BLOOD CK-MB-5 cTropnT-0.04*
+[**2107-5-29**] 01:35AM BLOOD CK-MB-2 cTropnT-0.05*
+[**2107-6-9**] 11:10AM BLOOD Calcium-8.4 Phos-3.9 Mg-1.8
+[**2107-6-8**] 05:10AM BLOOD Calcium-8.0* Phos-3.5 Mg-1.9
+[**2107-6-7**] 05:22AM BLOOD Calcium-8.0* Phos-4.0 Mg-1.9
+[**2107-6-6**] 05:00AM BLOOD Calcium-7.8* Phos-4.2 Mg-2.0
+[**2107-6-5**] 05:37PM BLOOD Calcium-7.9* Phos-3.7 Mg-2.0
+[**2107-6-4**] 12:11AM BLOOD Calcium-8.2* Phos-3.3 Mg-2.0
+[**2107-6-3**] 05:12AM BLOOD Calcium-7.8* Phos-2.9 Mg-2.3
+[**2107-6-2**] 05:25AM BLOOD Calcium-8.0* Phos-2.5* Mg-1.9
+[**2107-6-1**] 12:44PM BLOOD Calcium-8.1* Phos-3.1 Mg-2.0
+[**2107-5-31**] 05:10AM BLOOD Calcium-7.9* Phos-3.9 Mg-2.1 Cholest-97
+[**2107-5-30**] 05:35AM BLOOD Calcium-8.3* Phos-4.2 Mg-2.1
+[**2107-5-29**] 01:35AM BLOOD Calcium-8.2* Phos-3.7# Mg-2.3
+[**2107-5-28**] 03:10AM BLOOD Calcium-8.7 Phos-5.5* Mg-2.1
+[**2107-5-27**] 12:26PM BLOOD Calcium-7.9* Phos-4.5 Mg-2.0
+[**2107-6-2**] 05:25AM BLOOD Triglyc-193*
+[**2107-5-31**] 05:10AM BLOOD Triglyc-212* HDL-16 CHOL/HD-6.1
+LDLcalc-39
+[**2107-5-31**] 05:10AM BLOOD Vanco-19.5
+[**2107-5-28**] 06:00AM BLOOD Vanco-13.7
+[**2107-6-6**] 05:00AM BLOOD Digoxin-0.9
+[**2107-5-28**] 03:10AM BLOOD Digoxin-0.7*
+
+Brief Hospital Course:
+Ms. [**Known lastname **] was taken emergently to the OR for exploratory
+laparatomy on [**2107-5-26**]. She was transferred to the SICU in fair
+condition postoperatively, intubated and sedated. Her hospital
+course is discussed below by system:
+
+Neuro: Patient's pain was controlled with PCA and transitioned
+to IV and po pain medications when appropriate. During her ICU
+stay, she was noted to have word finding difficult and
+sundowning. Family felt that patient was confused but otherwise
+at baseline and her neurologic exam was nonfocal. As her overall
+condition improved and sundowning resolved, her word finding
+difficulty became more apparent and an MRI of her head was
+performed on [**2107-5-30**] with acute infarction in the left middle
+cerebral artery distribution involving the left parietal lobe
+noted. She was started on a heparin drip and her afib was
+controlled as below. Over the following 48 hours, her speech
+improved and a speech and swallow evaluation was performed prior
+to starting po intake. Patient improved daily until [**2107-6-3**] when
+she developed hypertension into the 200s with associated
+worsening speech. A CT head was performed which showed no
+hemorrhagic conversion and evolving stroke. She was continued on
+coumadin once therapeutic on heparin, and her dose of this was
+titrated to an appropriate level. She had been initially
+supratherapeutic with a maximum INR during her admission of 4.1,
+following which her coumadin was held. This was restarted on
+0.5mg of Warfarin at discharge with a plan to follow her INR at
+rehab.
+
+CV: Patient was in Afib RVR upon admission. IV metoprolol was
+used for rate control. TEE showed no evidence of intracardiac
+thrombus to explain her synchronous embolization to her small
+bowel and brain. Patient required multiple IV antihypertensives
+(metop, labetalol, hydralazine) for BP control. On [**2107-6-3**],
+patient's hypertensive episode prompted a transfer to ICU where
+she was controlled with a labetalol drip to maintain systolic
+blood pressure <140.  Patient was eventually transitioned to PO
+metoprolol and IV metoprolol PRN and transferred back to the
+general surgery service. Following transfer she was started on
+lisinopril and her blood pressure remained stable and
+appropriate and continued on an increased dose of Lopressor. Her
+blood pressure was improved and appropriate.
+
+Resp: Patient showed evidence of moderate pulmonary edema and
+was diuresed with IV lasix. She was given nebulizer treatments
+and encourage to use her IS. Her O2 was weaned.
+
+Abd: Patient's abdomen was distended with a prolonged ileus
+postoperatively. Initial attempts at diet advanced with speech
+and swallow recommendations were met with abdominal distension
+and pain. On [**2107-6-3**], patient complained of severe abdominal pain
+with nausea. KUB showed an ileus. NG tube was placed with 500 cc
+of bile drained and improvement in pain. NG tube was removed
+while patient in ICU and abominal distension was improved. Her
+diet was advanced to a regular diet and calorie counts were
+followed. She was given supplementation with ensure and was
+instructed to continue this on discharge.
+
+Wound: The midline surgical incision was closed with staples
+post-operatively. The inicsion line was intact without signs of
+infection. These staples were removed on discharge and replaced
+with steri-strips. The patient was to wear an abdominal binder
+when out of bed.
+
+Renal: Patient's mild renal insufficiency was unchanged
+throughout admission.
+
+Heme: Patient received one unit of FFP prior to ex lap on [**5-27**],
+one unit of PRBC on [**2107-5-29**] and one unit of PRBC on [**2107-6-3**] for
+low Hct. Her INR rose from 1.4 to 3.5 with one dose of coumadin
+once therapeutic on heparin. Her INR peaked at 4.1 and then
+trended down. She was kept therapeutic on her coumadin
+thereafter with a low dose. Patient was also kept on Heparin SC
+with venodynes for DVT prophylaxis.
+
+ID: The patient was ruled out for C. Diff suring this admission.
+
+
+Consulting teams: During this admission the patient was followed
+closely by neurology, geriatric medicine, speech and swallow,
+phyiscal therapy, and social work.
+
+Medications on Admission:
+Coumadin 2', ASA 81', toprol XL 75', digoxin
+0.125qod, lipitor 40', omeprazole 20', glipizide 2.5', fentanyl
+patch 50, topamax 25', sinemet 25/100''', seroquel
+25'am-50'pm-100'hs, remeron 30'hs, divalproex 250am/500pm,
+ativan
+0.5'''prn, ambien 10'prn, MVI, colace 100"", CaCarb 1000''', Fe
+65', fish oil, ?lasix 20', toprol 75', mirtazapine 30',
+Omeprazole 20',
+
+
+Discharge Medications:
+1. bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2)
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for
+constipation.
+2. furosemide 20 mg Tablet Sig: One (1) Tablet PO BID (2 times a
+day).
+3. omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1)
+Capsule, Delayed Release(E.C.) PO once a day.
+4. aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable
+PO DAILY (Daily).
+5. digoxin 125 mcg Tablet Sig: One (1) Tablet PO EVERY OTHER DAY
+(Every Other Day).
+6. atorvastatin 40 mg Tablet Sig: One (1) Tablet PO DAILY
+(Daily).
+7. glipizide 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+8. topiramate 25 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+
+9. carbidopa-levodopa 25-100 mg Tablet Sig: One (1) Tablet PO
+TID (3 times a day).
+10. quetiapine 25 mg Tablet Sig: One (1) Tablet PO QAM (once a
+day (in the morning)).
+11. quetiapine 50 mg Tablet Sig: One (1) Tablet PO QPM (once a
+day (in the evening)).
+12. quetiapine 100 mg Tablet Sig: One (1) Tablet PO QHS (once a
+day (at bedtime)).
+13. mirtazapine 30 mg Tablet Sig: One (1) Tablet PO HS (at
+bedtime).
+14. divalproex 250 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO QAM (once a day (in the
+morning)).
+15. divalproex 500 mg Tablet, Delayed Release (E.C.) Sig: One
+(1) Tablet, Delayed Release (E.C.) PO QPM (once a day (in the
+evening)).
+16. lorazepam 0.5 mg Tablet Sig: One (1) Tablet PO Q8H (every 8
+hours) as needed for anxiety.
+17. multivitamin,tx-minerals     Tablet Sig: One (1) Tablet PO
+DAILY (Daily).
+18. lisinopril 5 mg Tablet Sig: 0.5 Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+19. metoprolol tartrate 25 mg Tablet Sig: 2.5 Tablets PO BID (2
+times a day).
+Disp:*150 Tablet(s)* Refills:*2*
+20. acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H
+(every 6 hours) as needed for pain.
+Disp:*50 Tablet(s)* Refills:*0*
+21. warfarin 1 mg Tablet Sig: [**1-30**] Tablet PO QHS (once a day (at
+bedtime)) for 1 doses: Please give at 1600 on [**2107-6-9**] and
+recheck INR on [**2107-6-10**]. Goal INR 2.0-3.0, pt have been difficult
+to manage, very sensitive to warfarin.
+
+
+Discharge Disposition:
+Home With Service
+
+Facility:
+[**Hospital6 **] in [**Location (un) **]
+
+Discharge Diagnosis:
+Mesenteric Ischemia
+Ileal Resection
+CVA
+
+
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker
+or cane).
+
+
+Discharge Instructions:
+You were admitted to the hospital after a an open colectomy for
+surgical management of your mesenteric ischemia. It is thought
+that this mesenteric ischemia was caused by a blood clot in the
+membranes attatched to your intestine caused by your heart
+condition atrial fibrillation. During this time, it is thought
+that you also suffered from a stroke related to a blood clot
+which traveled to your brain. It is very important that you
+continue your coumadin therapy which ahs been difficult to
+manage, however, will be managed by the [**Hospital 4487**] hospital
+providers. You have recovered from this surgery well and you are
+now ready to be discharged to rehabilitation. From the stoke,
+you have difficulty saying words and it is our hope as well as
+the hope of the neurology team that this will improve over time
+with the help of occpational therapy and speech therapy. Please
+continue to hope and work for improvement in your symptoms.
+Please participate in physical therapy to regain your strength.
+You have tolerated a regular diet, passing gas and your pain is
+controlled with pain medications by mouth.
+
+Please monitor your bowel function closely. You have had a bowel
+movement. After anesthesia it is not uncommon for patient??????s to
+have some decrease in bowel function but your should not have
+prolonged constipation. Some loose stool and passing of small
+amounts of dark, old appearing blood are explected however, if
+you notice that you are passing bright red blood with bowel
+movments or having loose stool without improvement please call
+the office or go to the emergency room if the symptoms are
+severe. If you are taking narcotic pain medications there is a
+risk that you will have some constipation. Please take an over
+the counter stool softener such as Colace, and if the symptoms
+does not improve call the office. If you have any of the
+following symptoms please call the office for advice or go to
+the emergency room if severe: increasing abdominal distension,
+increasing abdominal pain, nausea, vomiting, inability to
+tolerate food or liquids, prolonges loose stool, or
+constipation.
+
+You have a long vertical incision on your abdomen the staples
+have been removed prior to your discharged and steri-strips have
+been applied. This incision can be left open to air or covered
+with a dry sterile gauze dressing if the incision becomes
+irritated from clothing. Please monitor the incision for signs
+and symptoms of infection including: increasing redness at the
+incision, opening of the incision, increased pain at the
+incision line, draining of white/green/yellow/foul smelling
+drainage, or if you develop a fever. Please call the office if
+you develop these symptoms or go to the emergency room if the
+symptoms are severe.  You may shower, let the warm water run
+over the incision line and pat the area dry with a towel, do not
+rub. Please wear an abdominal binder provided to you at all
+times while out of bed.
+
+No heavy lifting for at least 6 weeks after surgery unless
+instructed otherwise by Dr. [**Last Name (STitle) 1120**] or Dr. [**Last Name (STitle) **]. You may
+gradually increase your activity as tolerated but clear heavy
+excersise after follow up.
+You may take Tylenol as recommended for pain. Please do not take
+more than 4000mg of Tylenol daily. Do not drink alcohol while
+taking narcotic pain medication or Tylenol.
+
+You will take 0.5mg coumadin today [**2107-6-9**]. Your INR today
+[**2107-6-9**] is 2.3. The rehab facility will need to check daily INRs
+until your INR is stable and therapeutic, with a goal INR of
+2.0-3.0.
+
+Thank you for allowing us to participate in your care! Our hope
+is that you will have a quick return to your life and usual
+activities. Good luck!
+
+
+Followup Instructions:
+Please plan to follow up in Dr. [**Last Name (STitle) 4488**] clinic in approximately 2
+weeks. Call  ([**Telephone/Fax (1) 3378**] to make an appointment.
+
+
+
+Completed by:[**2107-6-9**]"
+301,40734,128964,2157-04-08,,,Discharge summary,Report,,,"Admission Date:  [**2157-3-29**]              Discharge Date:   [**2157-4-8**]
+
+Date of Birth:  [**2074-4-2**]             Sex:   F
+
+Service: MEDICINE
+
+Allergies:
+Patient recorded as having No Known Allergies to Drugs
+
+Attending:[**First Name3 (LF) 2297**]
+Chief Complaint:
+Subdural Hematoma
+
+Major Surgical or Invasive Procedure:
+none
+
+History of Present Illness:
+82F w/ h/o multiple myeloma, peripheral neuropathy recently
+hospitalized on neuro service for work-up of multiple falls
+transferred from [**Hospital3 2783**] with dx of right SDH.  The
+patient was found down, awake, in the afternoon by staff at
+nursing home where she lives.  She was admitted at [**Hospital1 18**] about 2
+weeks ago to work up the falls and at that time had negative
+intracranial imaging (see detailed neurology note from [**2157-3-15**]).
+The falls were thought to be due to a combination of neuropathy
+post chemotherapy and mild cervical spondylosis and she was
+discharged to a nursing home.  The current fall was unwitnessed
+and it is not clear if there was any LOC. Patient denies any
+dizziness, lightheadedness, vertigo, nausea/vomiting.  She also
+comes with a new dx of PNA, possible aspiration PNA and was
+treated with levaquin at OSH prior to arrival.
+
+.
+
+In the ED, initial vs were: T98.1, HR 80, BP 104/56, RR 14-16,
+O2 99%RA. Patient was alert but somewhat confused.  Head CT
+showed no interval change in mid-line shift or size of SDH.
+Neurosurgery recommended 6-pack of plt's, DDAVP, Vit K (10mg IV)
+and 2L NS.  Patient also received CTX for finding of pneumonia
+on CXR.  Was admitted to MICU for q1H neuro checks and treatment
+of pneumonia.  At time of transfer, VS 97.8, HR 80, Bp 96/41, RR
+22 O2 97% 3L NC, RA sat of 93-94%
+
+
+Past Medical History:
+1. Multiple myeloma s/p chemotherapy, followed by Dr. [**First Name (STitle) 2856**]
+at [**Company 2860**].  Seen by oncology for decreased counts on last admit
+and recommended to receive pulse steroids.
+
+2. HTN
+
+3. Peripheral neuropathy due to chemotherapy
+
+4. s/p both hips, knees replacement and L ankle surgery
+
+5. OA
+
+6. s/p cholecystectomy
+
+7. s/p hysterectomy
+
+8. Frequent falls
+
+
+Social History:
+SH: Was living alone until recent falls with subdural requiring
+rehab - does not drive but pays own bills, takes own meds and
+etc.  Used to be a waitress.  Has 2 grown children.  No
+cigarettes or EtOH.
+
+
+
+Family History:
+FH: NC
+
+
+
+Physical Exam:
+T97.3 HR 84, BP 92/60, O2 Sat 97% 3L NC
+General Appearance: No acute distress, Thin, very pleasant and
+comfortable appearing
+
+Eyes / Conjunctiva: PERRL
+
+Head, Ears, Nose, Throat: Normocephalic
+
+Cardiovascular: (S1: Normal), (S2: No(t) Normal, Loud), No(t)
+S3, No(t) S4, No(t) Rub, (Murmur: Systolic), At Erb's point
+
+Peripheral Vascular: (Right radial pulse: Present), (Left radial
+pulse: Present), (Right DP pulse: Present), (Left DP pulse:
+Present)
+
+Respiratory / Chest: (Expansion: Symmetric), (Breath Sounds:
+Crackles : bilaterally)
+
+Abdominal: Soft, Non-tender, Bowel sounds present, No(t)
+Distended, No(t) Tender: , No(t) Obese
+
+Extremities: Right: Absent, Left: Absent
+
+Skin:  Not assessed
+
+Neurologic: Attentive, Follows simple commands, Responds to:
+Verbal stimuli, Oriented (to): place, knows why she is in
+hospital, Movement: Purposeful, No(t) Sedated, No(t) Paralyzed,
+Tone: Normal, [**6-7**] full strength in UE bilaterally, diminished
+strength 4/5 b/l in LE, and nml cranial nerves
+
+
+Pertinent Results:
+[**2157-3-28**] 09:20PM   PT-15.1* PTT-33.5 INR(PT)-1.3*
+[**2157-3-28**] 09:20PM   WBC-16.6*# RBC-2.69* HGB-9.2* HCT-25.5*
+MCV-95 MCH-34.3* MCHC-36.1* RDW-19.7*
+[**2157-3-28**] 09:20PM   ALT(SGPT)-23 AST(SGOT)-41* ALK PHOS-67 TOT
+BILI-1.6*
+[**2157-3-28**] 09:39PM   LACTATE-1.2
+
+[**3-28**] CT Head:
+IMPRESSION: Acute on chronic right subdural hematoma, unchanged
+in comparison
+study from five hours prior. 1-2mm of leftward shift of normally
+midline
+structures.
+
+[**3-29**] CT Head:
+Evolution of acute-on-chronic right subdural hematoma with
+posterior layering of the acute component, now tracking along
+the tentorium. There is no evidence for new hemorrhage,
+increased mass effect, or edema.
+
+[**4-2**] CT Head:
+There has been not significant change in size of an acute on
+chronic subdural hematoma, but evolution of blood products
+within the
+hematoma is seen. There is no shift of minimal mass effect on
+subjacent right occipital gyri remains seen, and sulci are
+unchanged in configuration. The sulci are otherwise prominent,
+compatible with age-related involution. The ventricular
+configuration is unchanged. Again seen is scattered
+periventricular white matter hypodensities, consistent with
+chronic microvascular ischemia.
+
+Surrounding soft tissues and osseous structures are stable in
+appearance.
+There is no fracture. Imaged paranasal sinuses and mastoid air
+cells are well aerated.
+
+IMPRESSION: Evolution of right subdural hematoma without
+evidence for new
+hemorrhage or increased mass effect. No new hemorrhage.
+
+[**3-28**] CT C-spine:
+1. No fracture or prevertebral soft tissue swelling.
+2. Multilevel degenerative changes, predominantly at C5-6 and
+C6-7, unchanged in comparison to MRI [**2157-3-18**].
+
+[**3-28**] Echo:
+The left atrium is mildly dilated. The estimated right atrial
+pressure is 10-15mmHg. Left ventricular wall thickness, cavity
+size and regional/global systolic function are normal (LVEF
+>55%). There is a mild resting left ventricular outflow tract
+obstruction. Right ventricular chamber size and free wall motion
+are normal. The number of aortic valve leaflets cannot be
+determined. The aortic valve leaflets are mildly thickened.
+There is no valvular aortic stenosis. The increased transaortic
+velocity is likely related to high cardiac output. No aortic
+regurgitation is seen. The mitral valve leaflets are mildly
+thickened. There is no mitral valve prolapse. Trivial mitral
+regurgitation is seen. There is severe pulmonary artery systolic
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Preserved biventricular global and regional systolic
+function. Mild resting outflow tract gradient, likely due to
+vigorous left ventricular function. Severe pulmonary
+hypertension.
+
+
+Brief Hospital Course:
+# Subdural Hematoma: Patient continued to have decreased level
+of consciousness throughout the hospital stay. Neurosurgery was
+consulted for acute on chronic SDH.
+Vitamin K given for INR 1.3. ddavp given in ED given h/o aspirin
+use. Neurosurgery was consulted and recommended transfusing
+plt's with goal of >80, received 1 6-pack in ED. CT head and
+subsequent MRI/MRA were significant for stable SDH but chronic
+embolic events. Neurology was consulted and an EEG showed spike
+and wave patterns consistent with pre-seizure activity. Dilantin
+was given throughout the hospital course with no seizures noted.
+.
+# Hopsital Acquired Pneumonia. Has known PNA on CXR, treated
+from the start.  Abx treatment included vanco and cefepime
+started [**3-29**].  Did get one dose of ceftriaxone.  Was started on
+levo for atypical coverage on [**3-29**] which was stopped [**4-2**].
+Flagyl was started [**4-2**]. Culture data only positive for GPCs in
+sputum, no speciation done.  Remained tachypneic but
+oxygentating well until the date of death. The patient continued
+to require high O2 supplementation on [**2157-4-8**] and over the course
+of the day, the O2 sat declined, with a sharp decline in HR and
+BP. The patient became hypoxic and bradycardic, and expired in
+the afternoon. The family was contact[**Name (NI) **] and came to the hospital
+for viewing. The PCP was notified.
+.
+# Falls/?Syncope: recent admit with extensive work-up
+attributing LE weakness and falls to cervical spondylosis and
+multilevel degenerative disease with myelopathy and neuropathy.
+Unclear if LOC with fall so would pursue syncope w/u, which is
+likely [**3-7**] UE neuropathy, weakness, ? seizure in setting of SDH.
+MRA showed no lesions.
+.
+# Myeloma: On pulse decadron as per heme-onc for tx of myeloma.
+.
+# Pancytopenia: [**3-7**] to myeloma.  Stable.
+.
+# Renal Failure: At baseline from last admission.  Unclear
+etiology to CKD, but may represent complication from myeloma.
+.
+# Code: After family meeting, DNR/DNI was established.
+
+
+Medications on Admission:
+Medications: (On discharge from [**2157-3-21**])
+
+1. Aspirin 325 mg Tablet
+
+2. Omeprazole 20 mg Capsule, Delayed Release(E.C.)
+
+3. Pregabalin 25 mg Capsule Sig: One (1) Capsule PO BID
+
+4. Oxybutynin Chloride 5 mg Tablet Sig: One (1) Tablet PO BID
+
+5. Dexamethasone 4 mg Tablet Sig: Ten (10) Tablet PO DAILY
+
+(Daily) for 4 days.
+
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice
+
+
+a day.
+
+7. Nifedipine 30 mg Tab,Sust Rel Osmotic Push 24hr Sig: One (1)
+
+Tab,Sust Rel Osmotic Push 24hr PO once a day.
+
+8. Gabapentin 600 mg Tablet Sig: One (1) Tablet PO twice a day:
+
+Give qAM and qPM.
+
+9. Gabapentin 300 mg Capsule Sig: One (1) Capsule PO once a day:
+
+
+Afternoon dose.
+
+10. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6
+
+
+hours) as needed for fever or pain.
+
+11. Humalog insulin sliding scale
+
+
+Discharge Disposition:
+Expired
+
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute on Chronic Subdural [**Hospital 2861**]
+Hospital Acquired Pneumonia
+
+Secondary Diagnosis:
+Multiple Myeloma
+Thrombocytopenia
+
+Discharge Condition:
+Expired
+
+Discharge Instructions:
+N/A
+
+Followup Instructions:
+N/A
+
+
+Completed by:[**2157-5-9**]"
